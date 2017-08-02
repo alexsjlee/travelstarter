@@ -190,7 +190,8 @@ a {
 .card-grid {
     display: flex;
     justify-content: space-around;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
+    flex-flow: row wrap;
 }
 
 .trip-block {
